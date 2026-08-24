@@ -1,0 +1,13 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python environments and generated files
+.venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Personal candidate documents; keep only the usage note in Git.
+data/cvs/*
+!data/cvs/README.txt
